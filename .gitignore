@@ -2,6 +2,7 @@
 venv
 =======
 venv
+.env
 .vscode
 >>>>>>> 85e9a88466d66423c88b873a56df1cf1e7bda2e0
 __pycache__
